@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1427361520 source:c:\ds_c\316_1\exchange.c
+
+1427366713 source:c:\ds_c\316_1\main.c
+	"common.h"
+	"project.h"
+
+1427360626 c:\ds_c\316_1\common.h
+	<stdio.h>
+
+1427366467 c:\ds_c\316_1\project.h
+
+1427366547 source:c:\ds_c\316_1\init.c
+	"common.h"
+
+1427366391 source:c:\ds_c\316_1\yesorno.c
+
+1427366715 source:c:\ds_c\316_1\test.c
+	"common.h"
+	"project.h"
+
